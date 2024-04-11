@@ -102,6 +102,12 @@
 ## **🔍 System Architecture**
 
 // 시스템 아키텍쳐 이미지를 넣어주세요
+<br><br>
+
+## **📜 ERD 설계도**
+
+// ERD 설계도 이미지를 넣어주세요
+<br><br>
 
 ## **💻 Technology**
 

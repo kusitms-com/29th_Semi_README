@@ -125,7 +125,7 @@
 
 ### **📗 Server**
 
-<img src="https://img.shields.io/badge/JDK 17-007396?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot 3.2.4-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/Spring security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/JWT-FC494A?style=flat-square&logo=jsonwebtokens&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/JDK 17-007396?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot 3.2.4-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/Spring security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/JWT-FC494A?style=flat-square&logo=jsonwebtokens&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=Github Actions&logoColor=white">
 
 **`Spring Boot`**
   - 설정이 간소화되고 개발 생산성이 향상되는 스프링 기반의 프레임워크로, 내장된 톰캣과 같은 서버를 사용하여 애플리케이션을 간단히 배포할 수 있습니다.
@@ -153,6 +153,29 @@
 **`JWT`**
 - JSON 웹 토큰으로, 토큰 기반의 인증 방식을 사용하여 사용자 인증 및 권한 부여를 수행합니다.
 - 토큰 자체에 정보를 포함하므로 데이터베이스 조회 없이도 효율적인 인증이 가능하며, 암호화된 형태로 토큰을 전달하여 보안을 강화할 수 있습니다.
+
+**`Nginx`**
+- 로드 밸런싱과 리버스 프록시 기능을 통해 트래픽을 새로운 버전의 애플리케이션으로 원활하게 정환할 수 있습니다.
+
+**`Docker`**
+- CI/CD를 진행 할 때 실행 가능한 서버 애플리케이션을 도커를 통해 컨테이너화 시켜 서버 환경에서 쉽게 실행할 수 있게 합니다.
+
+**`Docker Compose`**
+- 복잡한 애플리케이션을 쉽게 정의하고 관리할 수 있으며, 개발 환경에서부터 프로덕션 배포까지 일관된 환경을 유지할 수 있습니다.
+
+**`Github Actions`**
+- 자동화된 워크플로우를 통해 Blue/Green 환경에 대한 코드 변경을 각각 자동으로 배포할 수 있습니다.
+- Github에서 제공하는 CICD 프로세스로 젠킨스와 같은 별도의 파이프라인을 구축할 필요 없다는 장점이 있습니다.
+
+**`NCP(Naver Cloud Platform)`**
+- NCP Server
+  - 확장성과 유연성을 바탕으로 다양한 인스턴스를 효율적으로 관리 및 배포할 수 있습니다.
+  - 체계적인 가이드라인을 제공해 빠르고 정확하게 서버 구축이 가능합니다.
+- Object Storage
+  - 데이터 무결성 및 복원력을 보장하고 초대용량 데이터를 저장할 수 있습니다. 
+  
+
+  
 
 <br>
 

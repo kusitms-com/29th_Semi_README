@@ -207,30 +207,48 @@
 ## **💻 Technology**
 
 
-// 각 파트별 스택을 적어주세요
 
-- Web / Android
-    - 
-    - 
+- ### Android
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white)
+  ![Retrofit](https://img.shields.io/badge/Retrofit-%23009020)
+  ![Jetpack](https://img.shields.io/badge/Jetpack%20-%234285F4?logo=jetpackcompose&logoColor=white)
 
+- ### Server
+    - 
+ 
+- ### Co-working Tool
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <br><br>
 
-- Server
-    - 
-    - 
-<br><br>
 
-- Co-working Tool
-    - 
-    - 
+## **🐾 기술 스택 선정 이유**
+### **📘 Android 스택 선정 이유**
+* **Android Studio**   
+안드로이드 애플리케이션 개발에 최적화된 통합 개발 환경(IDE)
 
-<br><br>
+* **Coroutine**   
+네트워크 통신 과정에서 효율적인 비동기 처리를 위해 코루틴 사용
 
-### **🐾 기술 스택 선정 이유**
+* **Android Jetpack**      
+재사용 가능한 컴포넌트와 공통 아키텍처 가이드라인을 제공하여 안정적이고 일관된 앱 개발
 
-// 각 파트별 기술 스택 선정 이유를 적어주세요
+* **Navigation**      
+SAA(Single Acitivity Architecture) 구조에 적합한 화면 전환과 UI 구성 라이브러리
 
-### **📘 Web/Android 스택 선정 이유**
+* **ViewModel**        
+UI와 데이터 영역을 분리하고, 화면 전환에 따른 데이터 저장을 담당
+
+* **Flow**         
+Clean Architecture에서 LiveData 사용을 지양함에 따라 Flow로 대체
+
+* **DataBinding**   
+데이터와 UI를 연결하는 작업을 레이아웃(.xml)에서 처리하는 기술
+
+* **OkHttp & Retrofit2**   
+REST API, HTTP 네트워크 통신 및 데이터베이스 접근에 사용되는 라이브러리
+
 <br><br>
 
 ### **📗 Server 스택 선정 이유**
@@ -239,26 +257,37 @@
 
 ## 🔖 Naming Rules
 
-// 팀 별 네이밍룰을 적어주세요
+ 기본적으로 Camel Case 규칙을 따른다.
+  - 폴더명 같은 경우는 Low Case로 작성
+  - 클래스명은 Pascal Case로 작성
+  - 이미지명 같은 경우는 Snake Case로 작성
+
 <br><br><br>
 
 ## **🗂️ Commit Convention**
 
-// 팀 별 커밋 컨벤션을 적어주세요
+- 형식: `태그: 커밋내용`
+
+| 태그 이름 | 설명                                                          |
+| :-------: | :------------------------------------------------------------ |
+|   feat    | 새로운 기능 구현                                              |
+|    fix    | 버그, 오류 해결                                               |
+|   docs    | README나 WIKI 등의 문서 수정                                  |
+|   style   | 기능 수정이 없는 스타일 변경                                   |
+| refactor  | 코드 리팩토링                                                 |
+|   test    | 테스트 코드, 리펙토링 테스트 코드 추가                        |
+|   chore   | 빌드 업무 수정, 패키지 매니저 수정, 간단한 코드 수정, 내부 파일 수정 |
+|   add     | 파일 추가 |
+
 <br><br>
 
-### **📌 Type**
-
-| commit 명 | commit 뜻 |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
-<br>
 
 ## **🐬 Git Flow**
 
-// 팀 별 깃 플로우를 적어주세요
+| 브랜치 명 | 설명 |
+| :-------: | :--------------------------------------------------------------------------------- |
+| main | 소프트웨어 제품 배포하는 용도로 쓰는 브랜치 |
+| feat | 단위 기능 개발용 브랜치 |
+| fix | 단위 기능 개발 수정용 브랜치 |
+| hotfix | master에 배포 코드가 합쳐진 후 버그 발생 시 긴급 수정하는 브랜치 |
 <br>

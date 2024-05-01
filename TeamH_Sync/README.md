@@ -196,12 +196,10 @@
 
 ## **🔍 System Architecture**
 
-// 시스템 아키텍쳐 이미지를 넣어주세요
 <br><br>
 
 ## **📜 ERD 설계도**
-
-// ERD 설계도 이미지를 넣어주세요
+![erd](https://github.com/kusitms-com/29th_Semi_README/assets/95680133/07776545-328a-465f-a496-d6de8917531a)
 <br><br>
 
 ## **💻 Technology**

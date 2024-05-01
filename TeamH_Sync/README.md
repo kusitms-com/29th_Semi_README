@@ -195,7 +195,7 @@
 <br><br>
 
 ## **🔍 System Architecture**
-
+![arch](https://github.com/kusitms-com/29th_Semi_README/assets/95680133/14ef563c-015e-4027-97f6-6f5df3d3b6ee)
 <br><br>
 
 ## **📜 ERD 설계도**

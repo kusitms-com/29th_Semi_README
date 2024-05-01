@@ -96,26 +96,29 @@
 
 <img width="848" alt="KakaoTalk_Photo_2023-10-04-02-51-36" src="https://github.com/kusitms-com/28th_Semi_README/assets/115339354/982e06ae-9957-487c-b5d3-10c7f369fcbb">
 
-<br><br>
+<br>
 
 ## **🔍 System Architecture**
 
-// 시스템 아키텍쳐 이미지를 넣어주세요
-<br><br>
+![Architecture](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/ee1b8737-dadd-40e2-9efd-eda972071aa1)
+
+<br>
 
 ## **📜 ERD 설계도**
+![ERD](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/51bd7b01-e415-42a9-8bf5-bbf20185aea7)
 
-// ERD 설계도 이미지를 넣어주세요
-<br><br>
+<br>
 
 ## **💻 Technology**
 
-### FrontEnd
+### 📘FrontEnd
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/recoil-3578E5?style=flat&logo=recoil&logoColor=white"/> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/CRA-09D3AC?style=flat&logo=createreactapp&logoColor=white"/>
 
-### BackEnd
+<br>
+
+### 📗BackEnd
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/RestDocs-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=spring&logoColor=white"/> 
@@ -127,46 +130,64 @@
 
 <img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat-square&logo=GithubActions&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
 
+<br>
 
 ### Co-working Tool
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 
-<br><br>
+<br>
 
-### **🐾 기술 스택 선정 이유**
+## **🐾 기술 스택 선정 이유**
 
-// 각 파트별 기술 스택 선정 이유를 적어주세요
+### 📘FrontEnd
+- CRA : 리액트 앱의 필요한 설정 작업을 자동화하여 빠르고 효율적으로 프로젝트를 시작하고 관리할 수 있습니다.
+- Netlify : 배포 설정 관련 문서화가 잘 되어있다. 무료로 배포가 가능합니다.
+- TypeScript : 컴파일 과정에서 타입으로 인한 에러를 발견하여 버그를 사전에 예방할 수 있다는 장점이 있습니다.
+- styled-components : 추가 css 파일 생성 없이 js 파일에 스타일 코드를 추가할 수 있어 빠른 속도로 개발이 가능합니다. 또한 스타일 컴포넌트명으로 컴포넌트의 목적을 명시함으로써 코드 구조를 쉽게 파악할 수 있습니다.
+- recoil : react hooks를 이용한 편리한 상태 업데이트 방식을 제공하고 초기 설정이 간단합니다.
+<br>
 
-### **📘 Web/Android 스택 선정 이유**
-<br><br>
-
-### **📗 Server 스택 선정 이유** 
-<br><br>
+### 📗BackEnd
+- Kotlin : 불변성을 기본으로 하고 타입 추론 기능으로 인해 코드가 매우 간결해지고 가독성이 높아집니다. 
+- Java : 해당 프로젝트는 도메인 주도 설계를 기반으로 하고 있고 멀티모듈로 구성되어있습니다. ORM 기술로 JPA를 사용할 예정이므로 Infrastructure 계층 모듈에서 persistence 부분 한정 기술에 최적화된 언어를 사용하기 위해 선택했습니다. 
+- SpringBoot : 객체 지향 언어가 가진 강력한 특징을 살려내는 프레임워크로 현재 많은 사람들이 이용하고 있기에 레퍼런스나 참고 자료가 많습니다.
+- JPA : ORM(Object-Relational Mapping) 기능을 자동으로 제공하므로 객체와 데이터베이스 간의 매핑을 자동으로 처리할 수 있으며, 데이터베이스의 스키마 변경에도 유연하게 대응할 수 있습니다.
+- RestDocs : 테스트 코드를 기반으로 API 문서를 자동으로 생성하므로 통합 테스트와 문서화를 한 번에 수행할 수 있습니다. 이를 통해 API 테스트와 문서 작성을 동시에 수행하여 시간과 노력을 절약하고 일관성 있는 문서를 유지할 수 있습니다.
+- Docker : 서로 다른 운영 체제나 환경에서도 애플리케이션을 일관성 있게 실행할 수 있습니다. 
+- Github Action : 무료로 사용할 수 있으며 GitHub와 밀접하게 통합되어 있어 GitHub 이슈, 풀 리퀘스트, 머지 등과 같은 이벤트를 자동으로 감지하고, 이를 기반으로 작업을 수행할 수 있습니다.
+<br>
 
 ## 🔖 Naming Rules
-
-// 팀 별 네이밍룰을 적어주세요
-<br><br><br>
+- 컴포넌트 내 함수 및 변수명 : camelCase
+- 함수 컴포넌트명 : PascalCase
+- 인터페이스명 : PascalCase
+- 스타일컴포넌트명 : PascalCase
+- 함수,변수 : camelCase
+- 생성자,클래스 : PascalCase
+- 상수 : UPPER_SNAKE_CASE
+<br>
 
 ## **🗂️ Commit Convention**
-
-// 팀 별 커밋 컨벤션을 적어주세요
-<br><br>
-
 ### **📌 Type**
-
-| commit 명 | commit 뜻 |
+| commit명 | commit 뜻 |
 | --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| feat | 새로운 기능 추가 |
+| fix | 버그 수정 혹은 기능 수정 |
+| design | css 등 사용자 UI 디자인 추가 및 수정 |
+| docs | 문서 추가 및 수정 |
+| test | 테스트코드, 리팩토링 테스트 코드를 추가했을 때 |
+| style | 코드 포맷팅, 세미콜론 누락, 코드 변경이 없이 추가 및 수정 |
+| refactor | 코드 리펙토링 |
+| build | 빌드 관련 파일 추가 및 수정 |
+| rename | 파일 혹은 폴더명을 수정하거나 옮기는 작업만 수행 |
+| remove | 파일을 삭제하는 작업만 수행 |
+| chore | 그 외 자잘한 수정 |
 
+### Commit Example
+    feat : 소셜 로그인 구현(#이슈넘버) 
 <br>
 
 ## **🐬 Git Flow**
-
-// 팀 별 깃 플로우를 적어주세요
+![Git-Flow](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/99d87e63-8a04-4bfb-a706-6c853279ec22)
 <br>
+

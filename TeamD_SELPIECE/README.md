@@ -107,27 +107,8 @@
 >     3. 틈새형 - 좁은 범위의 관찰을 통해 독창적인 아이디어를 탑재하여 새로운 영역을 창출하는 유형
 >     4. 조합형 - 주변 사람과 브랜드를 만들어 함께 시너지를 내는 유형
 > - *케이스 및 직군별 분류*
->     
->     
->     | 유형 | 브랜딩 방식 |
->     | --- | --- |
->     | 기업인 | • 소셜 미디어 활용 : LinkedIn을 통한 네트워킹 및 전문성 공유
->     • 블로그 및 포트폴리오 : 자신의 전문성을 보여주는 블로그 작성 |
->     | 예술가 및 디자이너 | • 포트폴리오 웹사이트 : 작품 집필 및 디자인 스킬 공개
->     • SNS 마케팅 : Instagram을 통한 자신의 스타일 전파 |
->     | 프리랜서 | • 개인 브랜드 로고 및 웹사이트 : 자신만의 로고와 웹사이트를 통해 브랜드 인식도 향상
->     • 고객 리뷰 및 평가 공개 : 고객 만족도 및 신뢰도 증대 |
->     | 개발자 | • GitHub 및 Open Source 참여 : 자신의 코드를 공유하고 오픈 소스 프로젝트에 참여하여 전문성을 보여줌
->     • 개인 블로그 및 튜토리얼 : 자신의 전문 분야에 대한 글쓰기 및 교육 콘텐츠 제작
->     • 온라인 커뮤니티 활동 : Stack Overflow와 같은 커뮤니티에서 활발한 참여로 전문가로서의 명성 구축 |
->     | 기획자 | • 포트폴리오 제작 : 성공한 프로젝트 및 기획안을 정리하여 웹사이트에 공개
->     • 네트워킹 이벤트 참여 : 업계 세미나나 모임을 통한 관계망 확장
->     • 멘토링 및 강연 : 후배들에게 지도하거나 강연을 통해 경험과 지식 공유
->     • 개인 블로그 : 개인 블로그나 사이트를 통한 자신의 전문 분야 글쓰기
->     • 소셜 미디어 활용 : facebook, instagram, twitter 등을 통해 업게 동향 공유 및 인사이트 제공 |
->     | 마케터 | • 소셜 미디어 활용 : facebook, instagram 등을 통한 자신의 브랜드 구축. 트렌드와 시장 분석을 통한 컨텐츠 제작 및  공유
->     • 케이스 스터디 및 웹세미나 진행 : 성공한 마케팅 케이스 공개 및 웹세미나를 통한 지식 전파
->     • 개인 브랜드 캠페인 : 자신의 마케팅 능력을 보여주는 개인 브랜드 캠페인 실행 |
+<img width="862" alt="55" src="https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/faea39ae-6348-4856-b56e-7fc4f9e9dbb7">
+
 
 <br>
 
@@ -213,8 +194,6 @@
 
 ![출처 : 알바몬](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/87255791/ec229f46-fc22-47f9-9fa7-89c100668b13)
 
-출처 : 알바몬
-
 커리어의 기준이 기존의 조직 중심에서 개인 중심으로 나를 위해서 일하는 시대로 변하면서 스스로 전문적 역량을 길러 지속 가능한 수익을 창출하는 것이 중요해지고 있습니다. 더불어, 평생직장의 개념이 사라지고 새로운 직업이 생겨나면서 N잡러 등 짧고 다양한 직업으로의 전환을 통해 나만의 가치와 역량을 중심으로 업을 달성하는 주체로서의 일(work)로 변화하고 있습니다.
 
 이러한 흐름에 따라 자신의 가치관에 따라 이직을 하거나 기업/클라이언트에게 끊임없이 자신을 어필해야하는 상황에 놓이는, 즉 퍼스널 브랜딩을 해야만 하는 상황에 지속적으로 노출되는 케이스가 증가하고 있는 추세입니다. 
@@ -223,9 +202,8 @@
 
 저희 팀은 다양한 플랫폼을 통해서 개인이 자신의 개성과 창의성을 수익으로 연결하는 게 가능해짐에 따라 앞으로는 회사에서 월급 받는 사람보다 플랫폼에서 정산받는 사람들이 더 많이 늘어날 전망을 포착했습니다. 즉, 나를 하나의 ‘브랜드 자산’으로 만들어 수익을 창출하는 케이스가 늘어나고 있습니다.
 
-![Untitled (2)](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/87255791/f3411ead-63a2-46b2-a8e3-40f06031499f)
-
-<img width="324" alt="Screenshot 2024-05-01 at 08 54 42" src="https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/87255791/41955a54-a354-4966-bc3a-c974ff1796cd">
+![Untitled (2)](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/87255791/f3411ead-63a2-46b2-a8e3-40f06031499f) | <img width="324" alt="Screenshot 2024-05-01 at 08 54 42" src="https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/87255791/41955a54-a354-4966-bc3a-c974ff1796cd">
+---|---|
 
 2021년 기준 1인미디어 산업의 총 매출은 약 2조 5천억원으로 집계되었으며, 그 중 광고(36%)와 영상제작 분야에서 높은 비율을 차지하고 있었습니다. 또한 디지털크리에이터의 전체의 64.5%가 자체 콘텐츠를 제작하고 있으며 부업으로 수행하고 있는 비율이 전체의 59.8%임을 확인할 수 있었습니다. 콘텐츠 장르의 경우, 라이프스타일(36.1%), 정보전달(30.7%)의 순으로 높은 비율을 차지하는 것으로 나타난 결과를 통해 1인미디어 산업이 퍼스널 브랜딩의 주 수단으로서 개인의 정체성을 드러내는데 중요하게 작용할 것임을 시사하고 있으며, 저희는 이 지점에 주목하여 퍼스널 브랜딩 시장에 진입하고자 합니다.
 
@@ -235,8 +213,9 @@
 
 ### 경쟁사 조사 및 차별성 도출
 
-![37](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/87255791/f804e34e-d862-48ef-810b-22514f87fe39) | ![경쟁사조사](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/87255791/96b8e61b-d34d-4bd8-8f5a-f6504d2474bb)
----|---|
+![37](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/87255791/f804e34e-d862-48ef-810b-22514f87fe39)
+
+![경쟁사조사](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/87255791/96b8e61b-d34d-4bd8-8f5a-f6504d2474bb)
 
 <br>
 
@@ -246,7 +225,7 @@
 
 ### 서비스 핵심기능
 
-<img width="815" alt="스크린샷 2024-05-01 오후 11 40 49" src="https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/f9843b92-8df6-4c4b-81e8-7fa17589e69a">
+<img width="812" alt="101" src="https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/539ea961-6858-4f48-b333-2ef6b1955c4a">
 
 
 ### 서비스 블루프린트 (🔗[LINK](https://miro.com/app/board/uXjVKORZ0xE=/?share_link_id=625934290213))
@@ -298,7 +277,7 @@
 
 ---
 
-<img width="727" alt="image" src="https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/3a86549b-47cc-48d8-a0e2-20f9bb3e354b">
+<img width="716" alt="102" src="https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/229f89a2-55b0-4ecb-8980-24cd165164d7">
 
 ## **🎨** 디자인 무드보드
 

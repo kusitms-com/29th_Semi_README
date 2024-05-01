@@ -1,5 +1,4 @@
-# 💠 자신의 조각을 찾아 고유한 브랜드를 디자인하는 공간, 셀피스(SELFPIECE)
-
+# 💠 나만의 조각을 찾아 브랜딩하는 공간, 셀피스(SELPIECE)
 ![1](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/10062d76-7829-4597-8201-83e385bf7920)
 
 ![2](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/5414b01b-bea3-4be3-884d-cd0bb7be3768)
@@ -13,6 +12,9 @@
 ---
 
 ### 팀명 : 쿨피스 (cool_ps)
+
+![팀원](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/d8b34c94-6e95-4e98-b0f2-fa106fefd094)
+
 
 ### R&R
 
@@ -29,7 +31,7 @@
     I (Informed) 결과 통보 대상자 : 업무의 진행 상태와 결과에 대한 보고를 받는 사람
     
 
-|  | 직무 내용 | 민선 | 민혜 | 수현 | 예림 | 민하 | 정민 | 민정 | 상호 |
+|  | 업무 내용 | 민선 | 민혜 | 수현 | 예림 | 민하 | 정민 | 민정 | 상호 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 공통 | 팀 운영 및 문화 관리 | RA | C | R | C | C | C | C | R |
 |  | 운영문서관리 | RA | RA | R | I | I | I | I | R |
@@ -194,6 +196,8 @@
 - 서비스에서 다 해소하지 못한 자기이해에 대한 니즈를 교육 프로그램 신청을 통해 해소한다.
 - 퍼스널 브랜딩을 유지, 관리할 수 있는 콘텐츠를 신청하여 브랜딩 목표를 달성한다.
 
+<br>
+
 ## **📊 리서치 및 시장조사**
 
 ---
@@ -242,6 +246,8 @@
 
 ![경쟁사조사.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffb96dd3-1baf-4262-85b0-d0660a0d87db/0f0ac674-cfaa-4353-9dbb-b5e8d96c5f2e/%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1%E1%84%8C%E1%85%A9%E1%84%89%E1%85%A1.png)
 
+<br>
+
 ## **✔️ 서비스 핵심기능 및 소개**
 
 ---
@@ -259,43 +265,48 @@
 
 ### [서비스 블루프린트](https://miro.com/app/board/uXjVKORZ0xE=/?share_link_id=625934290213)
 
-![셀피스 블루프린트 - Service blueprint.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffb96dd3-1baf-4262-85b0-d0660a0d87db/25fd08c1-11e3-485c-9e2b-daf4a3f29780/%E1%84%89%E1%85%A6%E1%86%AF%E1%84%91%E1%85%B5%E1%84%89%E1%85%B3_%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%AE%E1%84%91%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%90%E1%85%B3_-_Service_blueprint.jpg)
+![11](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/2e630477-4d4a-470f-8b78-cdd6fc988b02)
+
 
 ## **👀 서비스 타겟층 정의**
 
 ---
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffb96dd3-1baf-4262-85b0-d0660a0d87db/5cca8793-3992-4cd7-ba12-4cb41dfc0fb8/Untitled.png)
+![12](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/02cac044-9cc2-4480-91e2-abcf055e99b0)
+
 
 > **타겟 유형 분류**
 > 
 
 <aside>
+    
 👩🏻‍🎓 **대학생, 무직자**
 
 - 퍼스널 브랜딩에 관심이 많지만, 어떻게 시작해야 할지 모르는 경우
 - 자신의 브랜드를 만들고 싶지만 관련 경험이나 지식이 부족한 경우
 - 나를 콘텐츠, 플랫폼화하여 금전적, 비금전적 가치를 창출하고 싶은 경우
+  
 </aside>
 
 <aside>
+    
 🧑🏻‍💼 **직장인, 프리랜서, 실직자**
 
 - 본업을 가지고 있으며, 퇴사/이직 후 경제활동을 준비하고 싶어하는 사람
 - 자신의 능력을 디지털 매체를 통해 알리고 싶은 사람
 - 현재 본인의 삶에 회의를 느껴 새로운 도전을 해보고 싶은 사람
+  
 </aside>
 
-> **페르소나 & Journey Map**
+> **페르소나 & 유저 저니맵**
 > 
 
-![페르소나1.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffb96dd3-1baf-4262-85b0-d0660a0d87db/15141e03-3e76-4d6d-af16-7236cbee1b2b/%E1%84%91%E1%85%A6%E1%84%85%E1%85%B3%E1%84%89%E1%85%A9%E1%84%82%E1%85%A11.png)
+![13](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/e90dfd23-bfc1-472c-a793-2057df2527b7) | ![14](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/337ebf6b-8077-4e9b-8489-d2c78a63cc73)
+---|---|
 
-![페르소나1-1.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffb96dd3-1baf-4262-85b0-d0660a0d87db/6dfc7594-c517-4fa3-bb96-3614bd76169a/%E1%84%91%E1%85%A6%E1%84%85%E1%85%B3%E1%84%89%E1%85%A9%E1%84%82%E1%85%A11-1.png)
+![15](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/75dc7314-5fd0-47e8-a6bc-229f3fd1fcc0) | ![16](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/3a570db5-dd6a-4f7b-827c-fd84650097f9)
+---|---|
 
-![저니맵1-1.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffb96dd3-1baf-4262-85b0-d0660a0d87db/91f7f228-c57e-4a63-96b3-cf43561a7d2c/%E1%84%8C%E1%85%A5%E1%84%82%E1%85%B5%E1%84%86%E1%85%A2%E1%86%B81-1.png)
-
-![저니맵1.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffb96dd3-1baf-4262-85b0-d0660a0d87db/9992fe3a-a044-4110-84cb-3da842085092/%E1%84%8C%E1%85%A5%E1%84%82%E1%85%B5%E1%84%86%E1%85%A2%E1%86%B81.png)
 
 ## **📊 서비스 비즈니스 모델**
 
@@ -303,16 +314,9 @@
 
 | 관련파트너 1 | 관련파트너 2 | 내용 |
 | --- | --- | --- |
-| 셀피스 | 유저 | [프리미엄 구독 서비스 ]
-1. 페르소나 챗봇 도입을 통한 커스터마이징 기능
-2. 성격 유형 테스트(mbti 기반) 진행 기능
-3. 아카이빙 및 검사 결과 기록 저장기한 연장 : 60일 → 영구저장
-4. 브랜딩 관리를 위한 로드맵, 트래킹 툴 제공
-5. 1:1 맞춤형 컨설팅 연결 |
-| 셀피스 | 기업 | 1. 페이지 내 광고 배너
-2. 외부 퍼스널 브랜딩 강의 및 프로그램 파트너십 |
-| 셀피스 | 퍼스널브랜더 | 1. 페이지 내 광고 배너
-2. 컨설턴트 등록 (예비 브랜더 연결) 및 수수료 수익 |
+| 셀피스 | 유저 | [프리미엄 구독 서비스 ] 1. 페르소나 챗봇 도입을 통한 커스터마이징 기능 / 2. 성격 유형 테스트(mbti 기반) 진행 기능 / 3. 아카이빙 및 검사 결과 기록 저장기한 연장 : 60일 → 영구저장 / 4. 브랜딩 관리를 위한 로드맵, 트래킹 툴 제공 / 5. 1:1 맞춤형 컨설팅 연결 |
+| 셀피스 | 기업 | 1. 페이지 내 광고 배너 / 2. 외부 퍼스널 브랜딩 강의 및 프로그램 파트너십 |
+| 셀피스 | 퍼스널브랜더 | 1. 페이지 내 광고 배너 / 2. 컨설턴트 등록 (예비 브랜더 연결) 및 수수료 수익 |
 <br>
 
 ## **🎨** 디자인 무드보드
@@ -430,9 +434,6 @@
 - Object Storage
   - 데이터 무결성 및 복원력을 보장하고 초대용량 데이터를 저장할 수 있습니다. 
   
-
-  
-
 <br>
 
 ### **🗣️ Co-working-Tool**

@@ -107,7 +107,7 @@
 
 ## **📜 ERD 설계도**
 
-// ERD 설계도 이미지를 넣어주세요
+![image](https://github.com/Team-baebae/baebae-FE/assets/59834576/94236c95-0baa-42d0-bfd5-35854999f96f)
 <br><br>
 
 ## **💻 Technology**

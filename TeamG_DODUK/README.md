@@ -3,14 +3,10 @@
 
 <img width="848" alt="KakaoTalk_Photo_2023-10-04-02-49-47" src="images%2Fservice_intro.png">
 
-<br><br>
-
 ## 서비스 소개
-
 ### 경제 뉴스레터 서비스, 두둑
 ‘두둑’은 주체적인 지식 습득할 수 있는 경제 뉴스레터 서비스입니다. 
 
-<br>
 
 > 📢 ‘두둑’은 기존 뉴스레터의 수동적인 정보 전달로 인해 주체적인 성장을 할 수 없었던 문제를 해소하고자 기획되었습니다. 사용자들이 정보를 체화시키고 지속적으로 지식을 탐구할 수 있는 습관을 기를 수 있길 기대합니다.
 <br><br>
@@ -35,7 +31,6 @@
 <br>
 
 ## 🔎 목적 및 필요성
-
 ### 목적
 ‘두둑’은 경제 지식에 대한 진입 장벽을 느끼는 청년층을 위해 쉽고 빠르게 경제 트렌드를 전달합니다. 
 <br>
@@ -47,10 +42,8 @@
 - 목표 설정을 통해 사용자가 지속적해서 학습할 수 있는 동기부여를 얻습니다.
 <br><br>
 
-### 문제 정의 및 필요성
-
-### 데스크 리서치를 통해 1차적으로 문제를 정의했습니다.
-
+## 문제 정의 및 필요성
+### *"데스크 리서치를 통해 1차적으로 문제를 정의했습니다."*
 ### 1️⃣ 사회초년생들의 사회적 문제 : 빚투, 연체, 파산
 -  코로나19 이후 지속되고 있는 20대들의 무분별한 투자 열풍
     
@@ -62,7 +55,6 @@
     - 20일 법원통계월보에 따르면 올 3월 전국 법원에 접수된 개인회생 신청이 1만1228건으로 역대 최대를 기록했다. 지난해부터 급증한 20·30대의 개인회생 신청이 사상 최대 기록으로 이어졌다. 지난해 2030세대의 개인회생이 급증한 데는 청년세대가 느끼는 경제적 불안감이 뿌리깊게 박혀 있다. 착실하게 월급을 모아 자산을 늘리려던 부모·선배 세대들이 2017~2021년 부동산·주식·코인 열풍 앞에 좌절하는 것을 목격하면서 빚투와 영끌(영혼까지 끌어모은 대출)로 내몰린 20·30대가 결국 또 쓴맛을 봤다는 얘기다. [(출처)](https://news.mt.co.kr/mtview.php?no=2023042018053030248)
 
     <br>
-
     > 💡 주식·코인 호황기에 고수익을 노리고 [빚투, 영끌]과 같은 청년들의 무분별한 투자가 늘어나며 투자 실패, 파산과 같은 현상이 발생하고 있습니다.
 
 ### 2️⃣ 위 문제의 원인 : 낮은 이해도
@@ -78,10 +70,8 @@
 
     > 💡 위 현상 [무분별한 투자, 투자 실패]의 원인은 [청년들의 경제, 금융 이해도 부족]입니다. 청년들은 경제 지식에 대해 잘 알지 못한 채로 금융 활동하고 본인의 판단보다는 주변인의 추천에 큰 영향을 받고 있습니다.
 
-<br>
 
-### 유저 리서치를 통해 2차적으로 문제를 정의하고 그에 따른 필요성을 발견했습니다.
-
+### *"유저 리서치를 통해 2차적으로 문제를 정의하고 그에 따른 필요성을 발견했습니다."*
 ### 1️⃣ 어려운 경제 지식을 쉽고 빠르게 학습할 수 있는 뉴스레터
 
 1. 주요 경제 금융 콘텐츠 소비 경로인 ‘뉴스’의 페인포인트
@@ -98,7 +88,6 @@
 
     - 20대를 대상으로 진행한 설문조사에서 “경제 및 금융 지식을 습득하면서 어떤 어려움을 경험하셨나요?”라는 질문에 1위 ‘어려운 전문용어’(33%), 2위 ‘배경지식 부족’(29%)로 집계되었습니다. 20대는 전문성과 배경지식이 있어야 하는 높은 진입 장벽으로 인해 경제 지식을 학습하는 데 어려움을 겪고 있음을 확인했습니다. 또한 한00(24, 여)은 일상생활 시, 마주하게 되는 경제 용어 및 트렌드가 기본 지식 없이 한 번에 이해하기 어려워 경제 지식 학습에 대한 필요성을 느끼게 되었다고 답변했습니다.
 
-
     <br>
 
     > 💡 '두둑'의 필요성
@@ -108,7 +97,6 @@
 ### 2️⃣ 반복, 지속 학습을 통해 주체적 성장 경험
 
 - 기존 메일형 뉴스레터의 페인포인트
-
     - 정보 아카이빙 기능 부재로 인해 반복 학습 어려움
     - 자체 알림 기능이 부재하여 지속적으로 뉴스레터를 읽는 습관을 만들기 어려움
     - 기존 메일형 뉴스레터의 경우, 주로 1주일에 1번 혹은 하루에 1번 발송되어서 실시간 경제 트렌드를 파악하기 어려움
@@ -137,17 +125,11 @@
 
 - 타 뉴스레터 서비스의 경우, 유저의 서비스 여정이 뉴스를 읽는 것에서 종료됨을 알 수 있습니다. 하지만 뉴스는 읽고 끝나는 것이 아니라 그 정보를 유저가 어떻게 받아들이고, 이후 어떤 액션을 취할지 고찰하는 것이 더 큰 가치를 생산할 수 있는 부분이라고 판단했습니다. 또한 대부분의 뉴스레터 서비스의 경우, 로그인 기능, 즉 개인에 맞춰진 기능이 부재하여 동기부여, 아카이빙, 리워드 등 개인에게 적합한 기능이 부족합니다. 위 2가지 측면에서 ‘굿머닝’은 차별점을 도출하고자 합니다. 
 
-    
-<br><br>
 
 ## 👀 서비스 타겟층 정의
-
-### 저희 서비스의 목표 타겟층은 다음과 같습니다.
-
+### *"저희 서비스의 목표 타겟층은 다음과 같습니다."*
 1️⃣ **경제 관련 기본 지식을 쌓고 싶지만, 동기가 부족한 사람**
-
 2️⃣ **경제 관련 뉴스를 능동적이고 주체적으로 소비하고 싶어 하는 사람**
-
 - 위 특성을 고려하였을 때, 20대와 30대의 경제 지식에 대한 격차 및 실제 경제 수준에 대한 차이를 아우르는 기능을 도출하기에는 무리가 있다고 판단하여 일차적으로는 **20대를 메인 타겟으로** 선정하였습니다.
 
 | 분류 | 1️⃣ 번 특성의 유저 | 2️⃣ 번 특성의 유저 |
@@ -167,19 +149,13 @@
 | 둘러보기 | 뉴스를 읽고 남긴 타 유저들의 코멘트 및 앱 내 활동을 보여주는 기능 | 자신의 생각뿐만 아니라 다른 사람의 생각도 확인하여 생각을 폭을 넓힐 수 있게 함. 더불어 서비스의 지속적인 사용을 독려함 |
 | 리워드 | 뉴스레터 읽기, 코멘트 남기기, 모의 투자 참여하기, 출석 등 유저의 앱 내 활동들에 리워드를 제공하고 여러 코멘트 보기(추후 구체화 예정)등에 사용할 수 있게 하는 기능 | 서비스 리텐션 향상 및 올바르게 뉴스를 읽는 방식 제안 가능 |
 
-<br>
-
 ## 🗺️ IA
 <img width="848" alt="KakaoTalk_Photo_2023-10-04-02-49-47" src="images%2FIA.png">
 
-<br><br><br>
 ## 📊 서비스 비즈니스 모델
 `<`두둑`>`은 뉴스레터, 모의투자, 코멘트 작성 등 서비스 Core Value 전달을 위한 기능은 무료로 제공하여 서비스 진입 장벽을 낮춰, 많은 유저들에게 두둑이 제공하고자하는 가치를 경험시키고자 합니다. 이후 세부 기능과 더 많은 혜택, 일정 MAU, DAU를 확보한 후, 서비스 확장을 고려한 비즈니스모델을 적용하고자 합니다. 
 
-<br>
-
 ### Phase1
----
 초기 MVP 단계에서는 다음과 같은 비즈니스 모델이 적용됩니다.
 
 | 관련 파트너1 | 관련 파트너2 | 내용 |
@@ -189,19 +165,14 @@
 | 두둑 | 리서치 기업 | 설문 기능을 활용하여 리서치 기업에서 얻고 싶은 정보 제공 |
 
 <br>
-
 ### Phase2
----
 추후 확장 서비스에서는 다음과 같은 비즈니스 모델이 추가 적용됩니다.
 | 관련 파트너1 | 관련 파트너2 | 내용 |
 | --- | --- | --- |
 | 아티클 발행 유저 | 일반 유저 | 자격 신청을 통해서 검수된 유저만이 아티클과 뉴스레터를 작성할 수 있게 함. </br> 해당 콘텐츠의 코멘트, 좋아요 수, 조회 수에 따라서 아티클 발행 유저에게 수익 제공 </br> 일반 유저는 해당 아티클 및 뉴스레터의 전체 열람을 위해서는 리워드 필요 </br> → 앱 내 컨텐츠 다양화 및 리워드 사이클 가속화를 통한 수익화 가능 |
 | 두둑 | 교육 단체 | - 경제, 금융 관련 교육에 대한 니즈가 증가하고 있는 현 시점에서 </br> 두둑 서비스를 통해서 경제, 금융 교육을 할 수 있게 서비스(스터디룸) 제공 |
 
-
-<br><br>
-
-## **🎨 디자인 무드보드**
+## 🎨 디자인 무드보드
 
 <img width="848" alt="KakaoTalk_Photo_2023-10-04-02-51-36" src="images%2Fdesign_1.png">
 
@@ -209,58 +180,68 @@
 
 <img width="848" alt="KakaoTalk_Photo_2023-10-04-02-51-36" src="images%2Fdesign_2.png">
 
-<br><br>
-
+---
 ## **🔍 System Architecture**
-<img width="848" alt="KakaoTalk_Photo_2023-10-04-02-51-36" src="images%2Fsystem_architecture.png">
+![system_architecture.png](images%2Fsystem_architecture.png)
 
-## Multi Module
-<img width="848" alt="KakaoTalk_Photo_2023-10-04-02-51-36" src="images%2Fmulti_module.png">
+## 📦 Multi Module
+![multi-module.png](images%2Fmulti-module.png)
+### 모듈 별 가져야 하는 책임
+#### api-server
+- 외부와의 통신을 담당하는 모듈로 헥사고날 아키텍쳐의 Adapter 역할을 수행합니다.
+- 외부 요청을 받아 내부 서비스로 전달하고, 내부 서비스의 응답을 외부로 전달합니다.
+- 이 외에도 Infrasturcture와 관련된 코드를 포함하고 있습니다.
 
-<br><br>
+#### batch
+- 주기적으로 실행되는 작업을 담당하는 모듈로, 스케줄러를 통해 주기적으로 실행되는 작업을 수행합니다.
+- 크롤링, 데이터 처리, 데이터 저장 등의 작업을 수행합니다.
 
-## **📜 ERD 설계도**
+#### application
+- 내부 비즈니스 로직을 담당하고 있는 모듈로 헥사고날 아키텍쳐의 Port 역할을 수행합니다.
+- 외부 요청을 받아 비즈니스 로직을 수행하고, 결과를 반환합니다.
+
+#### domain
+- 오로지 POJO 객체만을 가지고 있는 모듈입니다.
+- 도메인 클래스와 도메인 서비스 클래스가 정의될 수 있습니다.
+- 도메인 서비스에는 ‘트랜잭션의 단위’를 정의하며, ‘요청 데이터를 검증’, ‘이벤트를 발생’하는 일 등의 도메인의 비지니스를 작성합니다.
+
+#### core
+- 공통적으로 사용되는 코드를 담당하는 모듈입니다.
+- 시스템 내 모든 모듈들이 의존할 수 있을만큼 얇은 의존성을 제공합니다.
+- 가능한 사용하지 않습니다.
+
+## 📜 ERD 
 ![ERD.png](images%2FERD.png)
 
-<br>
 
-## **💻 Technology**
+## ⚒️ Tech Stack
+### Front-end
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) <br>
 
-- Android
-    - ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white)
-    - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-    - ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### Back-end
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%6DB33F?logo=springboot&logoColor=white) 
+  ![Spring Security](https://img.shields.io/badge/Spring%20Security-%6DB33F?logo=springsecurity&logoColor=white) 
+  ![Spring JPA](https://img.shields.io/badge/Spring%20JPA-%6DB33F?logo=&logoColor=white)
+  ![Spring Batch](https://img.shields.io/badge/Spring%20Batch-%6DB33F?logo=&logoColor=white) <br>
+  ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazonec2&logoColor=white)
+  ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?logo=amazonRDS&logoColor=white)
+  ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FC390E?logo=amazons3&logoColor=white) <br>
+  ![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF?logo=githubactions&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white)
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) <br>
+  ![QueryDSL](https://img.shields.io/badge/QueryDSL-00465B?logo=&logoColor=white)
+  ![JWT](https://img.shields.io/badge/JWT-512BD4?logo=&logoColor=white) <br>
 
-<br>    
+### Co-Work Tool
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white) 
+![Github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) 
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) 
+![figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) 
+![notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 
-- Server
-    - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%6DB33F?logo=springboot&logoColor=white)
-    - ![Spring Security](https://img.shields.io/badge/Spring%20Security-%6DB33F?logo=springsecurity&logoColor=white)
-    - ![Spring JPA](https://img.shields.io/badge/Spring%20JPA-%6DB33F?logo=&logoColor=white)
-    - ![Spring Batch](https://img.shields.io/badge/Spring%20Batch-%6DB33F?logo=&logoColor=white)
-    - ![QueryDSL](https://img.shields.io/badge/queryDSL-00465B?logo=&logoColor=white)
-    - ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazonec2&logoColor=white)
-    - ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?logo=amazonRDS&logoColor=white)
-    - ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FC390E?logo=amazons3&logoColor=white)
-    - ![JWT](https://img.shields.io/badge/JWT-512BD4?logo=&logoColor=white)
-    - ![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF?logo=githubactions&logoColor=white)
-    - ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white)
-    - ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
-<br><br>
-
-- Co-working Tool
-    - ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
-    - ![Github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white)
-    - ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
-    - ![figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-    - ![notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
-
-<br>
-
-### **🐾 기술 스택 선정 이유**
----
-
-### **📘 Android 스택 선정 이유**
+## 💡 기술 스택 선정 이유
+### Front-end
 - **Android Studio**
     - 안드로이드 어플 개발의 생산성과 안정성을 높일 수 있는 통합 개발 환경을 제공합니다.
 
@@ -279,9 +260,7 @@
 - **http & dio**
     - 네트워크 통신 및 데이터베이스 접근을 위한 라이브러리입니다. 
 
-<br>
-
-### **📗 Server 스택 선정 이유**
+### Back-end
 - **Spring Boot**
     - 스프링 프레임워크를 기반으로 자동 설정과 스타터 종속성을 제공하여 웹 애플리케이션 개발과 배포를 신속하게 수행할 수 있도록 돕습니다.
 
@@ -329,26 +308,20 @@
     - 네이버의 자연어 처리 기술을 사용하여 대량의 텍스트를 자동으로 요약해 주는 도구로, 정보 파악과 의사결정에 효과적입니다.
     - 크롤링한 뉴스 기사를 요약하여 사용자에게 제공합니다.
 
-<br>
-
-
 ## 📌 Convention
-### 🔖 Naming Rules
-
+### Naming Convention
 - 파일 : CamelCase + SnakeCase
 - 클래스명 : PascalCase
 - 함수/변수명 : CamelCase
 
-### 🕊️ Branch Naming Convention
+### Branch Naming Convention
 - main 
 - develop
 - feature/Issue#-feature
 - hotfix/Issue#-feature
 - refactor/Issue#-feature
 
-<br>
-
-### **🗂️ Commit Convention**
+### Commit Convention
 
 | Tag      | Description                                         |
 |----------|-----------------------------------------------------|
@@ -362,16 +335,14 @@
 | `test`   | Commits that add missing tests or correcting existing tests. |
 | `refactor`| Commits for code refactoring.                      |
 
-### 🧑‍💻 Coding Convention
+### Coding Convention
 > 코드를 작성한 의도와 목적을 명확하게 드러냅니다. 
 - **Variables** : 축약어를 사용하지 않습니다. 변수 명에 자료구조를 포함하지 않습니다. (e.g., `CarList.java` ❌) <br>
 - **Methods**: `lowerCamelCase`를 사용합니다. 메소드 명은 동사 및 전치사로 시작합니다. (e.g., `getUserInfo()`) <br>
 - **Database Columns**: `snake_case`를 사용합니다. (e.g., `member_id`) <br>
 - **End Points**: REST API를 준수합니다. (e.g., `GET` www.example.com/users/1)
 
-<br>
-
-## 🧑‍🧑‍🧒‍🧒 Co-Work Flow
+## 📍 Co-Work Flow
 1. Issue를 생성합니다.
 2. Issue 번호로 시작하는 브랜치를 판 후 개발을 시작합니다. 
 3. 개발 완료 후 Pull Request를 생성합니다.
@@ -379,10 +350,7 @@
 5. Code Review를 바탕으로 개발자는 수정을 진행합니다.
 6. 최종 확인 후 Reviewer가 Merge를 진행합니다.
 
-<br>
 
-## **🐬 Git Flow**
----
+## 🐬 Git Flow
 ![git_flow.png](images%2Fgit_flow.png)
 
-<br>

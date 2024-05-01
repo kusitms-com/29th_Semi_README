@@ -214,8 +214,23 @@
   ![Jetpack](https://img.shields.io/badge/Jetpack%20-%234285F4?logo=jetpackcompose&logoColor=white)
 
 - ### Server
-    - 
- 
+  - #### Language :
+    - <img src="https://img.shields.io/badge/java 17-4B4B77?style=flat&logo=java&logoColor=white"/>
+  
+  - #### FrameWork :
+    - <img src="https://img.shields.io/badge/Spring Boot (3.1.2)-6DB33F?style=flat&logo=spring boot&logoColor=white"/>
+  
+  - #### Library :
+    - <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=spring&logoColor=white"/>    , <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=spring security&logoColor=white"/>    , <img src="https://img.shields.io/badge/Lombok-06B6D?style=flat&logo=Lombok&logoColor=white"/>, <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white"/>, <img src="https://img.shields.io/badge/Stomp-064?style=flat&logo=stomp&logoColor=white"/>
+  
+  - #### DataBase :
+    - <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>, <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>, <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
+  
+  - #### Infra : 
+    - <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>, <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white"/>, <img src="https://img.shields.io/badge/Elastic Cache-005571?style=flat&logo=elastic&logoColor=white"/>, <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=amazon rds&logoColor=white"/>,  <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white"/>, <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=Github Actions&logoColor=white"/>
+
+
+
 - ### Co-working Tool
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
@@ -226,41 +241,160 @@
 ## **🐾 기술 스택 선정 이유**
 ### **📘 Android 스택 선정 이유**
 * **Android Studio**   
-안드로이드 애플리케이션 개발에 최적화된 통합 개발 환경(IDE)
+  안드로이드 애플리케이션 개발에 최적화된 통합 개발 환경(IDE)
 
 * **Coroutine**   
-네트워크 통신 과정에서 효율적인 비동기 처리를 위해 코루틴 사용
+  네트워크 통신 과정에서 효율적인 비동기 처리를 위해 코루틴 사용
 
 * **Android Jetpack**      
-재사용 가능한 컴포넌트와 공통 아키텍처 가이드라인을 제공하여 안정적이고 일관된 앱 개발
+  재사용 가능한 컴포넌트와 공통 아키텍처 가이드라인을 제공하여 안정적이고 일관된 앱 개발
 
 * **Navigation**      
-SAA(Single Acitivity Architecture) 구조에 적합한 화면 전환과 UI 구성 라이브러리
+  SAA(Single Acitivity Architecture) 구조에 적합한 화면 전환과 UI 구성 라이브러리
 
 * **ViewModel**        
-UI와 데이터 영역을 분리하고, 화면 전환에 따른 데이터 저장을 담당
+  UI와 데이터 영역을 분리하고, 화면 전환에 따른 데이터 저장을 담당
 
 * **Flow**         
-Clean Architecture에서 LiveData 사용을 지양함에 따라 Flow로 대체
+  Clean Architecture에서 LiveData 사용을 지양함에 따라 Flow로 대체
 
 * **DataBinding**   
-데이터와 UI를 연결하는 작업을 레이아웃(.xml)에서 처리하는 기술
+  데이터와 UI를 연결하는 작업을 레이아웃(.xml)에서 처리하는 기술
 
 * **OkHttp & Retrofit2**   
-REST API, HTTP 네트워크 통신 및 데이터베이스 접근에 사용되는 라이브러리
+  REST API, HTTP 네트워크 통신 및 데이터베이스 접근에 사용되는 라이브러리
 
 <br><br>
 
 ### **📗 Server 스택 선정 이유**
 
-<br><br>
+- <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring boot&logoColor=white"/>
+
+    - 다양한 모듈을 제공하며, 데이터 액세스, 보안, 통합, 마이크로서비스 아키텍처까지 다양한 분야에서 사용할 수 있다.
+    - 복잡한 설정 작업을 줄이고, 개발자가 핵심 비즈니스 로직을 구현하는데 집중할 수 있다.
+
+
+- <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=spring&logoColor=white"/>
+
+    - 데이터베이스 액세스를 단순화하고, 단순 작업의 SQL 쿼리 작성을 줄여 준다.
+    - 데이터베이스와의 상호작용을 객체 지향적으로 다룰 수 있다.
+
+
+- <img src="https://img.shields.io/badge/JWT-FFCD00?style=flat&logo=JWT&logoColor=white"/>
+
+    - JWT는 사용자 인증과 권한 부여를 효과적으로 처리하는 간편한 방법을 제공한다.
+    - 서비스별로 분리된 분산 환경에서 인가, 인증을 간소화할 수 있다.
+    - 클라이언트 측에 토큰을 저장할 수 있으므로, 서버 측에서 세션을 관리하는 것보다 더 가볍고 확장 가능한 방식으로 사용자 신원을 관리할 수있다.
+
+
+- <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=spring security&logoColor=white"/>
+
+    - URL 및 메서드 수준에서 액세스 제어 규칙을 정의할 수 있으며, 특정 리소스에 대한 접근을 제어할 수 있다.
+    - CSRF(Cross-Site Request Forgery) 공격을 방어하기 위한 기능을 제공하며, 웹 서비스와의 AJAX 요청에서 보안 토큰을 자동으로 처리한다.
+        - CSRF 공격 - 사용자가 자신의 의지와는 무관하게 공격자가 의도한 행위(수정, 삭제, 등록 등)를 특정 웹사이트에 요청하게 하는 공격을 말한다.
+
+
+- <img src="https://img.shields.io/badge/Stomp-064?style=flat&logo=stomp&logoColor=white"/>
+
+    - 웹 소켓(WebSocket)을 기반으로 하며, 실시간 통신을 지원하는 프로토콜이다.
+    - 이벤트 기반 아키텍처를 쉽게 구현할 수 있으며,  비동기식 이벤트 처리가 가능하다.
+    - 메시징 프로토콜과 메시징 형식을 개발할 필요가 없다 & • 연결 주소마다 새로운 핸들러를 구현하고 설정해줄 필요가 없다.
+
+      → 형식을 고민하고, 파싱하는 코드를 구현할 필요가 없어져 기능 개발에 좀 더 힘을 쓸 수 있다.
+
+
+- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+
+    - 관계형 데이터베이스 모델로 스키마 설정을 통해 회의 통계에 대한 효율적인 데이터 관리를 할 수 있다.
+    - 빠른 읽기 및 쓰기 성능을 제공하며, 대용량 데이터베이스와 트랜잭션 처리에 효율적이다.
+    - 다양한 운영 체제에서 동작하며, Windows, Linux, macOS 등 다양한 플랫폼에서 사용할 수 있다.
+
+      → 로컬환경과 배포환경이 달라도 지장이 없다.
+
+
+- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
+
+    - 스키마가 없는 NoSQL 데이터베이스로, 데이터 모델을 자유롭게 정의할 수 있다.
+    - 애플리케이션이 필요로 하는 형식으로 데이터가 저장되기 때문에 실시간 통신에서  조회에 대한 이점이 있다.
+    - 실시간 서비스는 많은 트래픽이 발생하는 서비스이기 때문에 별도의 데이터베이스가 필요하다고 판단.
+#### **📗 infra**
+
+- <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=Github Actions&logoColor=white"/>
+
+    - Github로 코드 통합 관리를 진행할 경우 연장선으로 쉽게 자동배포까지 사용이 가능하다.
+    - 다양한 이벤트(예: 푸시, 풀, PR, 이슈 업데이트)를 트리거로 사용할 수 있으므로, 특정 이벤트가 발생했을 때 작업을 실행할 수 있다.
+
+      → Commit message check로 분산된 서버에 자동으로 배포가 가능하다.
+
+    - 리눅스, 맥, 윈도우, ARM 및 컨테이너를 쉽게 빌드, 테스트가 가능하다.
+
+
+- <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white"/>
+
+    - 거의 무제한의 데이터 저장 공간을 제공한다.
+    - 클라우드 환경에서 사진 및 파일 데이터를 관리하기 용의하다.
+
+
+- <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white"/>
+
+    - Blue/Green 무중단 아키텍처를 구성하기 위한 Proxy 역할을 합니다.
+
+
+- <img src="https://img.shields.io/badge/Docker-4479A1?style=flat&logo=docker&logoColor=white"/>
+
+    - 프로그램을 실행하는 환경을 캡슐화하여, 개발, 테스트 및 배포 과정을 일관되고 이식성 있는 방식으로 관리할 수 있다.
+    - 각각의 독립적인 image를 이용해 여러 서비스가 존재할 경우 관리 및 배포가 쉽다.
+
+
+- <img src="https://img.shields.io/badge/RDS-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+
+    - MySQL 데이터베이스의 관리와 운영 부담을 줄이고, 안정성, 가용성 및 보안을 향상시킬 수 있다.
+
+
+-  <img src="https://img.shields.io/badge/Elastic Cache-Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+
+    - 서로 분산된 서비스들 간의 동기화 데이터를 관리한다.
+    - 서비스 교체로 인해 휘발 될 수 있는 데이터를 저장하는데 용의합니다.
+    - Cache의 용도로 데이터베이스 액세스를 줄이고 애플리케이션 성능을 향상 시킬 수 있다.
+
+
+- <img src="https://img.shields.io/badge/EC2-Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+
+    - 서비스 교체로 인해 휘발 될 수 있는 데이터를 caching하는데 용의합니다.
+    - Publish/Subscribe 메커니즘을 제공하여 실시간 이벤트 처리 및 메시징 용도로 사용이 가능하다.
+
 
 ## 🔖 Naming Rules
-
+###  안드로이드
  기본적으로 Camel Case 규칙을 따른다.
   - 폴더명 같은 경우는 Low Case로 작성
   - 클래스명은 Pascal Case로 작성
   - 이미지명 같은 경우는 Snake Case로 작성
+<br>
+###  백엔드
+- Class: `Upper Camel Case`
+- Method: `Lower Camel Case`
+- Variable `Lower Camel Case` 단, `Constant` 변수는 제외합니다.
+- 데이터베이스: `Lower Snake Case`
+- 모든 `Class`는 해당하는 `domain`의 이름을 접미사에 사용합니다.
+
+    <pre>
+    controller: UserController
+    service: UserService
+    repository: UserRepository
+    dto/request: User_____RequestDto
+    dto/response: User_____ResponseDto
+    entity: User
+    config: WebConfig
+    error code: USER_Not_Found
+  </pre>
+- `Method`의 이름을 선언할 경우 `Method`가 지닌 역할 및 기능을 생각하고 그것을 의미할 수 있는 이름을 사용해야합니다.<br>
+
+  예를 들어 `ParticipationId`를 이용해 데이터베이스에서 데이터를 가져올 경우 `Get`이라는 메서드의 행위을 나타내는 동사와  메서드의 목적을 나타내는 `Participation`과 `ParticipationId`를 사용하겠다는 의미인 With 전치사를 함께 사용하여 Method를 만듭니다.
+
+    <pre>
+     Participation participation = getParticipationWithParticipationId()   </pre>
+
 
 <br><br><br>
 
@@ -281,6 +415,34 @@ REST API, HTTP 네트워크 통신 및 데이터베이스 접근에 사용되는
 
 <br><br>
 
+### 백엔드
+`[<Prefix>]:<Module_Name> #<Issue_Number> <Description>`의 양식을 준수.
+
+- **Prefix**
+
+| 태그 | 제목                                                                      |
+| --- |-------------------------------------------------------------------------|
+| feat | 새로운 기능 구현<br>ex. [feat]:Main #11 구글 로그인 API 기능 구현                       |
+| fix | 코드 오류 수정<br>ex. [fix]:Main #10 회원가입 비즈니스 로직 오류 수정                       |
+| del | 쓸모없는 코드 삭제<br>ex. [del]:Main #12 불필요한 import 제거                         |
+| docs | README나 wiki 등의 문서 개정<br>ex. [docs]:global #14 리드미 수정                   |
+| refactor | 내부 로직은 변경 하지 않고 기존의 코드를 개선하는 리팩토링<br>ex. [refactor]:Global #15 코드 로직 개선 |
+| chore | 의존성 추가, yml 추가와 수정, 패키지 구조 변경, 파일 이동 <br>ex. [chore]:Socket #21 yml 수정  |
+| test | 테스트 코드 작성, 수정 <br>ex. [test]:Global #20 로그인 API 테스트 코드 작성               |
+<br>
+
+- **Module_Name**
+
+`<Module_Name>`은 Github Action과 연동되어 특정한 클라우드 환경에 CI/CD가 되도록 설계되었기 때문에 반드시 준수해야합니다.
+
+| 태그 | 제목 |
+| --- | --- |
+| Main | MainService module에서 작업을 할 경우 사용합니다. |
+| Socket | Websocket module에서 작업을 할 경우 사용합니다. |
+| Global | 모든 module에 코드를 수정할 경우 사용합니다. |
+
+<br>
+
 
 ## **🐬 Git Flow**
 
@@ -291,3 +453,22 @@ REST API, HTTP 네트워크 통신 및 데이터베이스 접근에 사용되는
 | fix | 단위 기능 개발 수정용 브랜치 |
 | hotfix | master에 배포 코드가 합쳐진 후 버그 발생 시 긴급 수정하는 브랜치 |
 <br>
+
+### 백엔드
+
+작업 시작 시 선행되어야 할 작업
+
+1. issue를 생성합니다.
+2. feature branch를 생성합니다.
+3. add → commit → push → pull request 를 진행합니다.
+4. pull request를 develop branch로 merge 합니다.
+6. 이전에 merge된 작업이 있을 경우 다른 branch에서 진행하던 작업에 merge된 작업을 pull 받아옵니다.
+7. 종료된 issue와 pull request의 label을 관리합니다.
+
+#### Etc
+
+- 준수해야 할 규칙
+    - develop branch에서의 작업은 원칙적으로 금지합니다. 단, README 작성은 develop branch에서 수행합니다.
+    - commit, push, merge, pull request 등 모든 작업은 오류 없이 정상적으로 실행되는 지 확인 후 수행합니다.
+
+<br></br>

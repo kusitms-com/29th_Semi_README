@@ -48,7 +48,7 @@
 <br>
 ![image](https://github.com/kusitms-com/29th_Semi_README/assets/95680133/d1b6a005-9ad5-4053-ac5d-11944429eb1a)
 <br>
-▲ 국외 한국인/국내 외국인 유학생 현황에 대한 그래프
+▲ 국내 외국인 유학생 현황에 대한 그래프
 <br><br>
 **[언어장벽에서 시작된 유학생들의 대학 적응의 어려움]**
 <br>
@@ -196,7 +196,8 @@
 ![image](https://github.com/kusitms-com/29th_Semi_README/assets/95680133/67d235f3-7a56-4c48-9e05-a0907522ef55)
 <br>
 ### 📊 서비스 비즈니스 모델
-![image](https://github.com/kusitms-com/29th_Semi_README/assets/95680133/d3488ef3-915d-478a-969a-897f880a10f0)
+![image](https://github.com/kusitms-com/29th_Semi_README/assets/95680133/cedca7cd-8513-4be5-a498-170b6289a69e)
+
 <br><br>
 
 ## **🎨 디자인 무드보드**

@@ -137,7 +137,6 @@
 [![Auto Scaling](https://img.shields.io/badge/Auto%20Scaling-4C00FF?style=for-the-badge&logo=naver&logoColor=white)](https://www.ncloud.com/)
 [![Object Storage](https://img.shields.io/badge/Object%20Storage-FF5733?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Object_storage)
 [![Naver Clova](https://img.shields.io/badge/Naver%20Clova-38A3A5?style=for-the-badge&logo=naver&logoColor=white)](https://clova.ai/)
-[![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-F7975A?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/lambda/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Nat Gateway](https://img.shields.io/badge/Nat%20Gateway-FFA500?style=for-the-badge&logoColor=white)](https://www.ncloud.com/)
 [![nGrinder](https://img.shields.io/badge/nGrinder-19A974?style=for-the-badge&logoColor=white)](https://naver.github.io/ngrinder/)

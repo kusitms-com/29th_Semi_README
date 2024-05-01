@@ -112,16 +112,39 @@
 
 ### **📘 Web/Android**
 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
-<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white">
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white">
+**`React`** 
+- React는 가장 핵심 요소인 Virtual Dom을 이용하여 불필요한 화면 갱신을 최소화합니다. 이를 통해, 성능 향상을 시킬 수 있으며 빠른 렌더링을 지원합니다.
+- React의 생태계는 비교적 방대하며, 개발자 커뮤니티도 활발합니다. 그만큼 다양한 라이브러리, 플러그인 등이 개발되어 있어 생산성을 향상시킬 수 있습니다.
+- React는 컴포넌트 기반 아키텍처를 채택하고 있으며, UI 요소들을 컴포넌트로 분리하여 개발하고 조합하는 방식으로 구성할 수 있습니다. 따라서, 컴포넌트의 재사용성을 용이하게 하며, 코드 수정 및 유지보수에 효율적입니다.
 
-<br>
+**`Typescript`** 
+- Typescript는 Javascript 기반의 정적 타입 문법을 추가한 언어로, 타입 추가로 인해 안정적인 개발과 높은 수준의 코드 품질을 유지할 수 있습니다.
+- 컴파일 과정에서 타입을 지정하기 때문에 컴파일 에러 예방, 손쉬운 디버깅이 가능해집니다.
+- 변수, 함수, 매개변수, 함수 반환 값 등 타입 어노테이션(type annotation)을 추가할 수 있으며, 이를 통해 개발자가 코드의 의도를 명확하게 표현할 수 있습니다. 따라서 다른 개발자들이 코드를 이해하기 쉽게 도와줄 수 있습니다.
+
+**`Styled Components`**  
+- Styled Components는 CSS를 Javascript로 작성된 컴포넌트에 바로 삽입하는 기법으로, 컴포넌트 스타일링을 쉽게 구현할 수 있습니다. 뿐만 아니라, Javascript의 기능을 활용하여 동적인 스타일을 생성하거나 조건부 스타일을 적용할 수 있습니다.
+- CSS를 컴포넌트 기반으로 스타일링함으로써 컴포넌트 단위로 스타일을 정의하고 관리할 수 있습니다. 따라서, 컴포넌트 지향적인 스타일링이 가능하하며, 전역 스타일 충돌을 방지할 수 있습니다.
+
+**`Vite`**  
+- Vite는 개발 서버가 빠르게 번들링하고 HMR(Hot Module Replacement, 앱을 종료하지 않고 갱신된 파일만 교체하는 방식)을 지원함으로써 빠른 개발 속도를 제공합니다.
+- Vite의 사전 번들링 기능은 ESbuild를 사용하고 있어 기존 번들러 대비 10~100배 빠른 번들링 속도를 가지고 있습니다.
+
+**`Recoil`**  
+- Recoil은 React를 위한 상태 관리 라이브러리이기 때문에, React의 기본적인 훅(hook)과 개념을 활용하여 상태 관리를 보다 쉽고 직관적으로 할 수 있습니다. 따라서, 러닝 커브가 비교적 낮아 쉽게 사용할 수 있습니다.
+- Recoil은 비동기 처리를 기반으로 작성되어 동시성 모드를 제공합니다. 따라서, 다른 전역 상태 라이브러리처럼 비동기 처리 라이브러리에 의존할 필요가 없습니다.
+
+**`Axios`**  
+- 크로스 브라우징 최적화로 브라우저 호환성이 뛰어나며, Javascript 내장 라이브러리인 fetch와 다르게 오래된 브라우저 지원 불가에 대한 걱정이 필요하지 않습니다.
+- Promise 기반으로 만들어졌기 때문에 데이터를 다루기 편리합니다. 뿐만 아니라, 많은 기능을 제공하고 있어 요청과 응답을 보다 쉽게 다룰 수 있는 편의성을 제공합니다.
+
+**`Vercel`**
+- Vercel은 서버리스 아키텍쳐 기반으로, 사이트가 원활하게 작동하도록 모든 관리 작업을 처리합니다. 뿐만 아니라, CI/CD를 쉽게 설정할 수 있습니다. 따라서 개발자가 코드 개발 외적으로 관리해야 할 요소를 줄여줍니다.
+- CDN을 통해 전 세계 여러 위치에 제공하여 빠른 로딩 속도와 확장성을 제공합니다.
+
+<br />
 
 ### **📗 Server**
 
@@ -189,15 +212,12 @@
 
 ### **📘 Web/Android**
 
-- 컴포넌트명 (components)
-    - 폴더명 ⇒ 컴포넌트랑 직접적인 폴더명은 PascalCase
-    - 파일명 ⇒ PascalCase
-- 함수명, 변수명, 이미지 파일명
-    - camelCase
-- 상수명
-    - SNAKE_CASE
-- 타입명
-    - PascalCase
+- **컴포넌트명 (components)**
+    - **폴더명** : 컴포넌트랑 직접적인 폴더명은 PascalCase 사용
+    - **파일명** : PascalCase 사용
+- **함수명, 변수명, 이미지 파일명** : camelCase 사용
+- **상수명** : SNAKE_CASE 사용
+- **타입명** : PascalCase 사용
 
 ### **📗 Server**
 

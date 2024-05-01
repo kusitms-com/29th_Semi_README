@@ -272,8 +272,8 @@ Phase 2에서는 취업 전문 교육기관과의 제휴, 유저와 기업 간 �
 <br><br>
 
 ## **🎨 디자인 무드보드**
+![B조 디자인 리드미 최종본](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/e78eec34-46d2-431f-a655-2751c3725df4)
 
-<img width="848" alt="KakaoTalk_Photo_2023-10-04-02-51-36" src="https://github.com/kusitms-com/28th_Semi_README/assets/115339354/982e06ae-9957-487c-b5d3-10c7f369fcbb">
 
 <br>
 

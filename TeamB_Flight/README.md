@@ -1,4 +1,4 @@
-# ✈️ flight
+# ✈️ 플라잇flight
 
 ![서비스-소개-이미지](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/cf1dfdec-f557-48f6-affe-343ee60bf4d2)
 
@@ -45,7 +45,7 @@
 저희 팀은 이러한 문제 인식과 발상의 전환을 바탕으로, 자기 이해를 바탕으로 한 경험 정리 및 취업 준비 서비스를 기획하게 되었습니다.
 <br>
 ### PEST 분석
-![PEST 분석](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/3886cdb9-d2c1-4c7b-be25-f79dd65883f0)
+![PEST](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/fc361bcb-8306-4934-a5f5-3377887233f8)
 
 <br>
 
@@ -160,36 +160,35 @@
 | JD-경험 연결 및 자기소개서 작성 | JD를 보면서 사용자가 연결 짓고 싶은 **경험들을 검색**하고 **선별**할 수 있는 기능입니다. <p> 이렇게 저장한 경험들은 자기소개서 작성 페이지에서 함께 확인할 수 있습니다.<p> 자기소개서 작성 페이지에서 각 문항별로 내가 어필하고 싶은 키워드를 선택하면 **해당 키워드가 포함된 경험들을 필터링**하여 보여줍니다. <p> 오른쪽의 탭을 통해 JD와 경험 검색창을 필요 시 펼쳐서 함께 확인해가며 자기소개서를 작성할 수 있도록 합니다. | 사용자의 경험과 JD, 회사에서 요구하는 역량을 유기적으로 연결할 수 있도록 하여 사용자들이 자신만의 스토리가 담긴 자기소개서를 효율적으로 작성할 수 있도록 합니다.  |
 
 ### (3) 메뉴구조도
-
-![Informaiton Architecture.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/cca4237f-c117-4bbb-9793-b368509e33db/c09ae011-bde2-47b5-80c6-d7d07835afd4/Informaiton_Architecture.png)
+![Informaiton Architecture](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/c05f980d-307d-4768-a772-ed2a4456be20)
 
 ### (4) GUI
+![59549](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/5913d4a0-2711-4497-8f96-35dee3efd0a9)
 
-![59549.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/cca4237f-c117-4bbb-9793-b368509e33db/f0a32717-3505-4067-8b72-fe49340d0a14/59549.jpg)
+![경험정리 23](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/c630ab49-7c7c-415d-a46a-beb526fb3949)
 
-![경험정리 키워드별](https://prod-files-secure.s3.us-west-2.amazonaws.com/cca4237f-c117-4bbb-9793-b368509e33db/696b2ba6-af74-4335-9408-af4f08f09ea5/%E1%84%80%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5_23.jpg)
 
 경험정리 키워드별
 
-![JD 분석](https://prod-files-secure.s3.us-west-2.amazonaws.com/cca4237f-c117-4bbb-9793-b368509e33db/68572b20-ab73-464f-87e2-92b2d2adbef6/JD%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8_%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%86%AB.jpg)
+![JD분석 수정본](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/ab1c59bd-dc4a-4cd9-a31b-7ac1d69ab380)
 
 JD 분석
 
-![자기소개서 작성](https://prod-files-secure.s3.us-west-2.amazonaws.com/cca4237f-c117-4bbb-9793-b368509e33db/d3f90bee-bf25-410b-a404-28c93a59cfa0/%E1%84%8C%E1%85%A1%E1%84%80%E1%85%B5%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%E3%85%93%E3%85%85.jpg)
+![자기소개서](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/2e46f1bf-0c39-468a-b4b9-988b616f0d72)
 
 자기소개서 작성
 
 ### **(5) 서비스 비즈니스 모델**
 
-![Lean Canvas.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/cca4237f-c117-4bbb-9793-b368509e33db/e95beefb-d459-4483-b739-85caf6001995/Lean_Canvas.png)
+![Lean Canvas](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/a74c81a3-6034-475e-9a59-1b25fca3d765)
 
 린 캔버스를 통해 사용자의 니즈를 파악하고 가설을 세워 시장과 수익 모델을 빠르게 검증하고 아이디어를 시뮬레이션했습니다. 
 
-![BM_phase 1.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/cca4237f-c117-4bbb-9793-b368509e33db/e7dbd1f1-5d44-47b3-a5fe-d304db496d2d/BM_phase_1.png)
+![BM_phase 1](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/b61a11ac-02be-4c1d-93a5-5ea87faa3c35)
 
 Phase 1에서는 ‘플라잇flight’와 기업, 사용자 간의 관계를 중심으로 수익 모델을 구축하였습니다. 
 
-![BM_phase 2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/cca4237f-c117-4bbb-9793-b368509e33db/3dee3b70-f467-4cec-be0e-6090cf09d39c/BM_phase_2.png)
+![BM_phase 2](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/7481db39-afc1-4088-9177-bfb143f0d5b1)
 
 Phase 2에서는 취업 전문 교육기관과의 제휴, 유저와 기업 간 입사 지원, 제안의 기능을 더해 더 많은 가치를 사용자에게 제공하고, 다양한 수익원을 통해 확장 가능성을 고려해볼 수 있습니다.
 

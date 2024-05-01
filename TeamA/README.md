@@ -235,7 +235,7 @@ e알리미는 가정통신문 배부를 목적으로 사용됨
 ### 세부 기능
 
 ![image](https://github.com/uiop5809/29th_Semi_README/assets/97819580/b70624c5-fa2d-4022-b0e1-f583df12dcff)
-![image](https://github.com/uiop5809/29th_Semi_README/assets/97819580/35beccdc-f01e-457a-a6fc-e9a0a523efcd)
+![image](https://github.com/uiop5809/29th_Semi_README/assets/97819580/8b681eeb-5c82-497d-b264-738233e3629b)
 ![image](https://github.com/uiop5809/29th_Semi_README/assets/97819580/6a2154e6-870e-4b0c-87a7-c1e9c5a71649)
 ![image](https://github.com/uiop5809/29th_Semi_README/assets/97819580/bb0268b0-7779-4791-b868-8bc1a5d331ab)
 ![image](https://github.com/uiop5809/29th_Semi_README/assets/97819580/39e9cdc2-44b3-4c8b-92ca-8df2ecb6f883)

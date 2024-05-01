@@ -1,6 +1,7 @@
 # 🌟 또바
 
-<img width="848" alt="KakaoTalk_Photo_2023-10-04-02-49-47" src="https://github.com/kusitms-com/28th_Semi_README/assets/115339354/bba51986-1d36-4f5d-aac9-d82d81508e0b">
+![image](https://github.com/nohy6630/29th_Semi_README/assets/129354455/14999d6e-92dc-4f19-b075-95781a47a44e)
+
 
 <br><br>
 

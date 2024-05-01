@@ -4,7 +4,7 @@
 
 <br><br>
 ## 서비스 소개
-![image](https://github.com/bakhwee-bug/29th_Semi_README/assets/95680133/c3d3f0ed-24f0-426f-a65c-0268d3e7fe25)
+![image](https://github.com/kusitms-com/29th_Semi_README/assets/95680133/2508bebe-6d83-4a78-a767-07b94cb065a5)
 <br>
 ### 오늘 싱크하셨나요?
 

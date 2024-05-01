@@ -275,7 +275,7 @@ e알리미는 가정통신문 배부를 목적으로 사용됨
 
 ## **📜 ERD 설계도**
 
-![image](https://github.com/uiop5809/29th_Semi_README/assets/97819580/4b4cdf9c-17b1-4d20-81a5-dffb30b734f5)
+![image](https://github.com/uiop5809/29th_Semi_README/assets/97819580/d2508463-63ff-4e72-865e-f6a55515d8fa)
 
 <br>
 

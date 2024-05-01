@@ -67,8 +67,7 @@
 
 그러나 57.9%의 학부모님들은 학교 어플로부터 오는 여러 개의 알림으로 인해 꼭 답해야 할 알림장/가정통신문 내용을 놓쳐본 경험을 갖고 있었습니다. 뿐만 아니라 유저 인터뷰(학부모님 3명 대상)를 통해서 ‘여러 학교 어플로부터 오는 중복 내용 알림’에 대한 페인 포인트도 발견할 수 있었습니다.
 
-![image](https://github.com/uiop5809/29th_Semi_README/assets/97819580/397dd64f-ffd8-4e67-9a45-6c49fa5129e5)
-
+<img src="https://github.com/uiop5809/29th_Semi_README/assets/97819580/397dd64f-ffd8-4e67-9a45-6c49fa5129e5" width="50%" />
 
 > **무분별하며 방대한 학교 알리미 어플 알림**
 
@@ -77,7 +76,8 @@
 <br />
 
 ### Problem 2. 학부모에게 불친절한 교육 공공데이터
-![image](https://github.com/uiop5809/29th_Semi_README/assets/97819580/38dfc763-cfa4-4b95-bb20-f4777b7133ae)
+
+<img src="https://github.com/uiop5809/29th_Semi_README/assets/97819580/38dfc763-cfa4-4b95-bb20-f4777b7133ae" width="50%" />
 
 ![image](https://github.com/uiop5809/29th_Semi_README/assets/97819580/60418029-a8d5-48b9-bc7a-28136fbddc6c)
 
@@ -87,7 +87,7 @@
 
 <br />
 
-![image](https://github.com/uiop5809/29th_Semi_README/assets/97819580/b14c595f-9d14-43f7-9a25-60fb97e665f8)
+<img src="https://github.com/uiop5809/29th_Semi_README/assets/97819580/b14c595f-9d14-43f7-9a25-60fb97e665f8" width="50%" />
 
 > **학부모 회신 요구되는 항목 파악 어려운 알림장**
 
@@ -95,7 +95,7 @@
 
 <br/>
 
-![image](https://github.com/uiop5809/29th_Semi_README/assets/97819580/03612971-5cbd-4cc0-b32e-15098462a05e)
+<img src="https://github.com/uiop5809/29th_Semi_README/assets/97819580/03612971-5cbd-4cc0-b32e-15098462a05e" width="60%" />
 
 > **가정 학습 연계 불가능한 주간학습안내**
 

@@ -99,13 +99,13 @@
 
 <br><br>
 
-## **🔍 System Architecture**
+## **🌐 System Architecture**
 
 <img width="1329" alt="쿨피스_아키텍처" src="https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/72669e0b-e379-4690-b4c9-cd4737987150">
 
 <br><br>
 
-## **📜 ERD 설계도**
+## **📜 ERD**
 
 <img width="1478" alt="쿨피스_ERD_2" src="https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/ff8d9ed7-1a47-4fab-a167-618e0bb6efdd">
 
@@ -181,7 +181,7 @@
 - 토큰 자체에 정보를 포함하므로 데이터베이스 조회 없이도 효율적인 인증이 가능하며, 암호화된 형태로 토큰을 전달하여 보안을 강화할 수 있습니다.
 
 **`Nginx`**
-- 로드 밸런싱과 리버스 프록시 기능을 통해 트래픽을 새로운 버전의 애플리케이션으로 원활하게 정환할 수 있습니다.
+- 로드 밸런싱과 리버스 프록시 기능을 통해 트래픽을 새로운 버전의 애플리케이션으로 원활하게 전환할 수 있습니다.
 
 **`Docker`**
 - CI/CD를 진행 할 때 실행 가능한 서버 애플리케이션을 도커를 통해 컨테이너화 시켜 서버 환경에서 쉽게 실행할 수 있게 합니다.
@@ -191,7 +191,7 @@
 
 **`Github Actions`**
 - 자동화된 워크플로우를 통해 Blue/Green 환경에 대한 코드 변경을 각각 자동으로 배포할 수 있습니다.
-- Github에서 제공하는 CICD 프로세스로 젠킨스와 같은 별도의 파이프라인을 구축할 필요 없다는 장점이 있습니다.
+- Github에서 제공하는 CI/CD 프로세스로 젠킨스와 같은 별도의 파이프라인을 구축할 필요가 없다는 장점이 있습니다.
 
 **`NCP(Naver Cloud Platform)`**
 - NCP Server

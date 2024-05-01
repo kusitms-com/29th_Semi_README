@@ -101,10 +101,13 @@
 
 ## **🔍 System Architecture**
 
-// 시스템 아키텍쳐 이미지를 넣어주세요
+<img width="1329" alt="쿨피스_아키텍처" src="https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/72669e0b-e379-4690-b4c9-cd4737987150">
+
 <br><br>
 
 ## **📜 ERD 설계도**
+
+<img width="1478" alt="쿨피스_ERD_2" src="https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/ff8d9ed7-1a47-4fab-a167-618e0bb6efdd">
 
 <br><br>
 

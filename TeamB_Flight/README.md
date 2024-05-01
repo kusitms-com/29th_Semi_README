@@ -110,23 +110,28 @@
 
 ## **💻 Technology**
 
+### FrontEnd
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/recoil-3578E5?style=flat&logo=recoil&logoColor=white"/> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/> 
 
-// 각 파트별 스택을 적어주세요
+<img src="https://img.shields.io/badge/netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/CRA-09D3AC?style=flat&logo=createreactapp&logoColor=white"/>
 
-- Web / Android
-    - 
-    - 
+### BackEnd
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> 
 
-<br><br>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/RestDocs-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens">
+ 
 
-- Server
-    - 
-    - 
-<br><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"> <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white"> <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"> 
 
-- Co-working Tool
-    - 
-    - 
+<img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat-square&logo=GithubActions&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+
+
+### Co-working Tool
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
 <br><br>
 
@@ -137,8 +142,7 @@
 ### **📘 Web/Android 스택 선정 이유**
 <br><br>
 
-### **📗 Server 스택 선정 이유**
-
+### **📗 Server 스택 선정 이유** 
 <br><br>
 
 ## 🔖 Naming Rules

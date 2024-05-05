@@ -3,7 +3,7 @@
 >
 
 ![1](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/10062d76-7829-4597-8201-83e385bf7920)
-![2](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/5414b01b-bea3-4be3-884d-cd0bb7be3768)
+![d23](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/8cd43206-5b8b-4cc0-9983-ddcbe5e0d3ba)
 
 
 <br>
@@ -71,6 +71,8 @@ def) 자신의 성향과 강점, 수익 창출로의 연결이 가능한 전문�
 ```
 
 > *퍼스널 브랜딩이란, 나만의 개성과 매력, 재능을 브랜드화하여 가치를 높이는 행위로 대표적인 퍼스널브랜더로는 ‘드로우앤드류’ , ‘노마드코더’ 등이 있으며 최근 SNS를 활용하여 수익화를 하는 행위가 대표적인 퍼스널 브랜딩의 결과로 볼 수 있습니다.*
+![퍼브](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/a78229d4-3f60-4968-8d36-c60d319cb309)
+
 
   <details>
     <summary><em>케이스 및 직군별 분류</em></summary>

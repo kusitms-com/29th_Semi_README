@@ -52,18 +52,18 @@
 
 팀 쿨피스는 아이디어 선정 이전, 서로의 흥미를 파악하기위해 ‘넌 어떤 사람이야? 뭘 좋아해?’ 등의 질문에 대한 답변을 하고 서로를 알아가는 온보딩을 진행했습니다. 그러던 중, 저희는 선뜻 나의 흥미, 강점, 성향 등에 대한 답을 내리지 못한다는 것을 인지했습니다. 즉, 나조차도 나에 대해 잘 알고 있지 못하다는 것이었는데요, 저희의 시작은 바로 이 지점이었습니다. 
 
-왜 나는 나에 대해 잘 알지 못할까, 사용자들에게 나를 잘 알 수 있는 경험을 주는 건 어떨까 라는 생각으로 **서비스의 사용자들이 자신을 깊이 이해하며 살아가도록 돕는 것**을 저희 팀의 목표로 설정했습니다. 단, 이는 팀의 내적동기와 목표에 불과했기에 <U>관련하여 문제가 존재하는지, 서비스를 사용할만큼의 동인이 있는 문제인지에 대한 가설 실험을 진행했습니다.</U>
+왜 나는 나에 대해 잘 알지 못할까, 사용자들에게 나를 잘 알 수 있는 경험을 주는 건 어떨까 라는 생각으로 **서비스의 사용자들이 자신을 깊이 이해하며 살아가도록 돕는 것**을 저희 팀의 목표로 설정했습니다. 단, 이는 팀의 내적동기와 목표에 불과했기에 __관련하여 문제가 존재하는지, 서비스를 사용할만큼의 동인이 있는 문제인지에 대한 가설 실험을 진행했습니다.__
 
 ![image](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/87255791/9787ef77-a763-4fe1-a9f6-a5865d579573)
 
 
-해당 실험을 통해 2030세대의 <U>자기이해에 대한 니즈</U>를 확인했지만, 그 니즈가 서비스를 사용할 동인을 가지는가에 대해서는 부정적이라는 결과를 도출했습니다.
+해당 실험을 통해 2030세대의 __자기이해에 대한 니즈__ 를 확인했지만, 그 니즈가 서비스를 사용할 동인을 가지는가에 대해서는 부정적이라는 결과를 도출했습니다.
 
 이에 따라 **`서비스 사용의 동인을 가지는, 자기이해에 대한 강력한 니즈를 가지는, 자기이해의 과정에서 ‘문제’를 겪고 있는 집단` 을  발굴하기 위해 IDI(n=26)와 성공한 퍼스널브랜더와의 전문가인터뷰를 설계/진행하며 2차 리서치를 진행했습니다.**
 
 ![image](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/87255791/e0a9d8bd-9654-4d63-a414-67f08035492c)
 
-그 결과, <U>나로써 새로운 가치를 창출하고자하는 집단</U>은 자기이해에 대한 강력한 니즈와 그 과정에서 문제를 겪고 있다는 점을 발견했습니다. 그들은 공통적으로 ‘퍼스널 브랜딩’을 목적이자 목표로 하고 있었으며 이에 따라 저희는 ‘퍼스널 브랜딩’ 의 여정을 시작한 집단이 초기 설계 단계에서 겪는 문제를 해결할 수 있는 솔루션에 대해 고민하게 되었습니다.
+그 결과, __나로써 새로운 가치를 창출하고자하는 집단__ 은 자기이해에 대한 강력한 니즈와 그 과정에서 문제를 겪고 있다는 점을 발견했습니다. 그들은 공통적으로 ‘퍼스널 브랜딩’을 목적이자 목표로 하고 있었으며 이에 따라 저희는 ‘퍼스널 브랜딩’ 의 여정을 시작한 집단이 초기 설계 단계에서 겪는 문제를 해결할 수 있는 솔루션에 대해 고민하게 되었습니다.
 
 ```csharp
 * 자기이해 *
@@ -368,9 +368,16 @@ def) 자신의 성향과 강점, 수익 창출로의 연결이 가능한 전문�
   </tbody>
 </table>
 
-### 서비스 블루프린트 (🔗[LINK](https://miro.com/app/board/uXjVKORZ0xE=/?share_link_id=625934290213))
+### 서비스 블루프린트
 
-![11](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/2e630477-4d4a-470f-8b78-cdd6fc988b02)
+![블1](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/d22bbd6a-ebc7-44bc-89ba-bdc6118e2512)
+
+![블2](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/9f2ad9ea-3b1b-4e49-a04e-b35a190ae758)
+
+### Information Architecture
+
+![IA](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/10228c21-6734-47b0-b51a-363d39639699)
+
 
 ### 기능명세서
 
@@ -516,8 +523,7 @@ def) 자신의 성향과 강점, 수익 창출로의 연결이 가능한 전문�
                 <td></td>
                 <td>2.2.1. 이미지 저장</td>
                 <td>
-                  조각 카드 이미지가 저장되는 기능<br />→ 앞뒷장 자동 PNG로 저장
-                  ?<br />
+                  조각 카드 이미지가 저장되는 기능<br />
                 </td>
               </tr>
               <tr>
@@ -526,9 +532,7 @@ def) 자신의 성향과 강점, 수익 창출로의 연결이 가능한 전문�
                 <td></td>
                 <td>2.2. 2. 카카오로 공유</td>
                 <td>
-                  카카오톡으로 공유되는 기능 <br />→ 여기서 혹시 사이트 구경하기
-                  등 버튼 입력가능한지 ?̊̈<br />→ 걍 링크로 공유되는 건지 ui 화면
-                  궁금<br />
+                  카카오톡으로 공유되는 기능 <br />
                 </td>
               </tr>
               <tr>
@@ -578,9 +582,8 @@ def) 자신의 성향과 강점, 수익 창출로의 연결이 가능한 전문�
                 <td></td>
                 <td>
                   내가 설정한 이상향의 나를 확인할 수 있는 기능, 내가 되고 싶은
-                  이상향을 설정하여 더 나은 내가 되도록 유도하는 기능<br />1.
-                  <br />나 설계하기<br />2. 내 포지셔닝 선택
-                  (구현안할듯!̆̈)<br />
+                  이상향을 설정하여 더 나은 내가 되도록 유도하는 기능<br />
+                  <br />1. 나 설계하기<br />2. 내 포지셔닝 선택 <br />
                 </td>
               </tr>
               <tr>
@@ -807,15 +810,17 @@ def) 자신의 성향과 강점, 수익 창출로의 연결이 가능한 전문�
 > **페르소나 & 유저 저니맵**
 > 
 
-![13](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/e90dfd23-bfc1-472c-a793-2057df2527b7) | ![14](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/337ebf6b-8077-4e9b-8489-d2c78a63cc73)
----|---|
+![13](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/e90dfd23-bfc1-472c-a793-2057df2527b7)
+![남1](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/8a49d9ec-b527-4820-9c54-0ac6992d915a)
 
-![15](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/75dc7314-5fd0-47e8-a6bc-229f3fd1fcc0) | ![16](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/3a570db5-dd6a-4f7b-827c-fd84650097f9)
----|---|
+![14](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/337ebf6b-8077-4e9b-8489-d2c78a63cc73)
+![박1](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/1145b5a6-0c79-48c6-a960-eebb3584ffd7)
 
 <br>
 
 ## **📊 서비스 비즈니스 모델**
+
+![서비](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/5bfcc9b3-8ae2-442b-83a3-a8bd982eae56)
 
 <table>
   <thead>
@@ -830,6 +835,7 @@ def) 자신의 성향과 강점, 수익 창출로의 연결이 가능한 전문�
       <td>셀피스</td>
       <td>유저</td>
       <td>
+        셀피스는 서비스를 통해 유저가 궁극적으로 목표했던 ‘퍼스널 브랜드’를 구축할 수 있도록 돕습니다. 이에 따라 유저는 퍼스널 브랜딩 이전 ‘자기이해’ 에서 나아가 퍼스널 브랜딩과 관한 정보 습득, 학습 / 퍼스널 브랜딩 정체성 확립까지를 경험합니다. 그 과정에서 유료 컨텐츠나 컨설팅 프로그램을 유료 서비스화하여 (class 101과 유사한 비즈니스 로직) 프리미엄 구독제도를 도입하고자 합니다. <br /><br>
         [프리미엄 구독 서비스 ]<br />
         1. 페르소나 챗봇 도입을 통한 커스터마이징 기능<br />
         2. 성격 유형 테스트(mbti 기반) 진행 기능<br />
@@ -842,6 +848,8 @@ def) 자신의 성향과 강점, 수익 창출로의 연결이 가능한 전문�
       <td>셀피스</td>
       <td>기업 / 퍼스널브랜더</td>
       <td>
+        서비스 확장 계획에 따라 추후 퍼스널 브랜드, 자기계발 등과 관한 기업, 성공한 퍼스널 브랜더와의 계약관계를 통해 ‘검증된 교육 컨텐츠’를 제공하고자 합니다. 이에 따라 셀피스의 이해관계자로는 유저 외에도 전문 퍼스널브랜더, 기업도 포함되며 이들은 유저에게 교육 프로그램을 제공하고, 교육프로그램 제공으로 인한 수익을 얻습니다.<br /><br>
+        추가적으로, 유료 유저에게는 1:1 맞춤형 퍼스널브랜딩 컨설턴트로써 컨설팅 세션을 제공합니다.<br />
         1. 페이지 내 광고 배너<br />
         2. 외부 퍼스널 브랜딩 강의 및 프로그램 파트너십<br />
         3. 예비 브랜더 연결 및 수수료 수익<br />
@@ -852,17 +860,25 @@ def) 자신의 성향과 강점, 수익 창출로의 연결이 가능한 전문�
 
 ### 비즈니스 모델 캔버스
 
+![72](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/96829ad6-c450-4790-8132-c193713b515b)
+
 <br>
 
 ## **🎨** 디자인 무드보드
+
+![24](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/e62b38ef-d88e-4a81-9fcb-3a483ce5aa05)
+
+![73](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/54a57fda-731b-4917-b65e-b64e7a9f4ed2)
+
+![74](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/77f14b28-c02f-40af-91a6-bb46805ac09e)
 
 ![21](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/7298323f-8c6c-42c8-9143-403ce089afa9)
 
 ![22](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/4b6ead9f-5f49-462a-a19d-7a0aff5f14bd)
 
-![23](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/8c1ae489-13c5-41f2-9fc0-35f86742015d)
+![76](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/bde2d9f5-8fbe-49bb-a23c-4073eeb2a8b2)
 
-![24](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/e62b38ef-d88e-4a81-9fcb-3a483ce5aa05)
+![75](https://github.com/KUSITMS-29th-TEAM-D/29th_Semi_README/assets/113084292/b5c5b2e9-296d-4950-964c-c6e254308d76)
 
 <br>
 

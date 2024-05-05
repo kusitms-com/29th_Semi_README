@@ -1,6 +1,6 @@
 # 🌟 서비스명
 
-![image](https://github.com/kusitms-com/29th_Semi_README/assets/95680133/303cf3c8-3eca-427e-aea9-d002793b11fe)
+![리드미_표지_최종](https://github.com/kusitms-com/29th_Semi_README/assets/95680133/50f0b070-acd9-4219-a6f4-c14ad7900cc7)
 <br>
 'sync(싱크)'는 '동시에 이뤄지는', '조화를 이루는' 의 뜻을 가진 synchronization 단어의 약자입니다.
 <br>
@@ -50,7 +50,7 @@
 <br>
 2015년 정부가 ‘유학생 유치 확대 방안’을 발표하며, 외국인 유학생 수가 2015년부터 2022년 사이에 2배 가량 증가했다고 밝혔습니다.
 <br>
-![image](https://github.com/kusitms-com/29th_Semi_README/assets/95680133/d1b6a005-9ad5-4053-ac5d-11944429eb1a)
+![리드미_그래프_최종](https://github.com/kusitms-com/29th_Semi_README/assets/95680133/09cdfec8-fda6-4fda-ad00-b0a4e5d148e0)
 <br>
 ▲ 국내 외국인 유학생 현황에 대한 그래프
 <br><br>
@@ -197,16 +197,16 @@
 | 커뮤니티 | 1. 생활 탭에서 한국 생활에 대한 정보를 게시물로 공유하고 댓글로 소통할 수 있는 기능<br>2. 질문 탭에서 해외 여행 및 생활에 대한 질문을 작성하고 댓글로 답변할 수 있는 기능 |
 
 ### **[IA]**
-![image](https://github.com/kusitms-com/29th_Semi_README/assets/95680133/67d235f3-7a56-4c48-9e05-a0907522ef55)
+![리드미_IA_최종](https://github.com/kusitms-com/29th_Semi_README/assets/95680133/01dda25c-7262-497a-8532-a9935d35f75a)
 <br>
 ### 📊 서비스 비즈니스 모델
-![image](https://github.com/kusitms-com/29th_Semi_README/assets/95680133/cedca7cd-8513-4be5-a498-170b6289a69e)
+![리드미_BM_최종](https://github.com/kusitms-com/29th_Semi_README/assets/95680133/43d98f31-e9ce-4284-b63b-61a2e4441ef3)
 
 <br><br>
 
 ## **🎨 디자인 무드보드**
 
-![image](https://github.com/kusitms-com/29th_Semi_README/assets/95680133/b85f171c-9a6b-4aaa-8f15-47ba43eb025f)
+![아이템소개_최종](https://github.com/kusitms-com/29th_Semi_README/assets/95680133/4a3024cc-8b71-4bfd-ba48-4b7d9e2f540a)
 <br><br>
 
 ## **🔍 System Architecture**

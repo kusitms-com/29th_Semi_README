@@ -3,9 +3,10 @@
 
 <br><br>
 
-## 서비스 소개를 적어주세요.
+## 서비스 소개
 
 > ‘flight’은 경험 정리를 통해 사용자들의 자기 이해도를 높임으로써 취업 준비를 보다 의미 있는 과정으로 만들어주는 서비스입니다.
+
 ![overview](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/65f95b4a-4dbf-40b2-a872-95574a37bd8e)
 ![기획 리드미 수정](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/f7f90276-2129-4045-9f72-ce8a80fd9931)
 <br>

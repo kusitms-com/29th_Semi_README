@@ -314,18 +314,20 @@ E. 교육 정보
 
 ### 핵심 기능
 
-![image](https://github.com/uiop5809/29th_Semi_README/assets/97819580/ce1c3153-5f2b-4b3e-a657-cbcacd855534)
+![image](https://github.com/uiop5809/29th_Semi_README/assets/97819580/4a1ff8dd-7a94-4e02-b148-7560df1889fc)
+
 <br />
 
 ### 정보 구조도 (IA)
 
-![image](https://github.com/uiop5809/29th_Semi_README/assets/97819580/4c9b4595-3685-437a-a825-29d45f51e734)
+![image](https://github.com/uiop5809/29th_Semi_README/assets/97819580/ce31c92b-826d-47e8-be37-730c084047b9)
+
 <br />
 <br />
 
 ## 📊 서비스 비즈니스 모델
 
-![image](https://github.com/uiop5809/29th_Semi_README/assets/97819580/76d126e0-f528-49af-9d30-f7a72f3daebf)
+![image](https://github.com/uiop5809/29th_Semi_README/assets/97819580/2ec2f637-97af-4574-967e-4bc16ea67d92)
 
 |                                                    | 관련 파트너 1 | 관련 파트너 2 | 내용                                                                                                      |
 | -------------------------------------------------- | ------------- | ------------- | --------------------------------------------------------------------------------------------------------- |

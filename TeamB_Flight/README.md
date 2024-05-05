@@ -73,7 +73,7 @@
 > **취업 준비에 대해 스트레스를 느끼는 정도를 유형화해보았습니다.**
 > 
 
-![유저 리서치 6](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/5876c63d-27c2-4787-85c3-c81590789219)
+![Untitled (9)](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/38650174-c561-4a06-a3c8-d9310aa266ed)
 
 취업 준비에 대해 스트레스를 느끼는 정도: **4점(다소 그렇다)이 37.5%** 로 가장 높게 나타났으며 **1점(전혀 그렇지 않다)이 17.3%**, **3점(보통이다)이 20.2%** 로 그 뒤를 이었습니다. 
 
@@ -92,7 +92,7 @@
 > **취업 준비 과정에서 가장 어려움을 느끼는 부분을 조사해보았습니다.**
 > 
 
-![유저 리서치 7](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/73f491a6-ee34-43a1-ab4e-303de99a2126)
+![Untitled (8)](https://github.com/kusitms-com/29th_Semi_README/assets/78543382/2e56baeb-25af-429b-b70b-9afe137bcc78)
 
 1위 36.5%: “취업 준비 자체에 대한 불안”
 

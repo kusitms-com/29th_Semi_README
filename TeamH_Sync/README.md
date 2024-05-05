@@ -206,7 +206,7 @@
 
 ## **🎨 디자인 무드보드**
 
-![아이템소개_최종](https://github.com/kusitms-com/29th_Semi_README/assets/95680133/4a3024cc-8b71-4bfd-ba48-4b7d9e2f540a)
+<img width="1920" alt="아이템소개_최종_최종" src="https://github.com/kusitms-com/29th_Semi_README/assets/95680133/d8d0823f-ec53-4a66-8bad-2a4be911bbbc">
 <br><br>
 
 ## **🔍 System Architecture**

@@ -591,15 +591,13 @@ https://www.yna.co.kr/view/AKR20230929002900004
 <br><br>
 
 ## **🔍 System Architecture**
-<img width="721" alt="image" src="https://github.com/Kusitms-29th-Meetup-TeamE/.github/assets/129354455/892bf943-5d2a-476a-a051-0564ef4f864f">
-
-
+![image](https://github.com/nohy6630/29th_Semi_README/assets/129354455/9ff6198d-3713-4fe7-bcf4-541b8981bee0)
 
 <br><br>
 
 ## **📜 ERD 설계도**
 
-<img width="1083" alt="image" src="https://github.com/Kusitms-29th-Meetup-TeamE/.github/assets/129354455/a46a14fd-e75f-482c-a6b3-76282d06ad91">
+![image](https://github.com/nohy6630/29th_Semi_README/assets/129354455/55b7b1a7-2ea9-44c1-95af-0a9b77dff963)
 
 <br><br>
 
